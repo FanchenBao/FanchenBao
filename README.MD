@@ -1,6 +1,6 @@
-### Stats
+### Overview
 
-| <img height=200 align="center" src="https://github-readme-stats-weld-phi-66.vercel.app/api?username=fanchenbao&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=monokai" /> | <img height=200 align="center" src="https://github-readme-stats-weld-phi-66.vercel.app/api/top-langs/?size_weight=1&count_weight=0&username=FanchenBao&layout=compact&langs_count=7" /> |
+| <img align="center" src="https://github-readme-stats-weld-phi-66.vercel.app/api?username=fanchenbao&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=monokai" /> | <img align="center" src="https://github-readme-stats-weld-phi-66.vercel.app/api/top-langs/?size_weight=1&count_weight=0&username=FanchenBao&layout=compact&langs_count=7" /> |
 | ------------- | ------------- |
 
 
